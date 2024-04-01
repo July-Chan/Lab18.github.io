@@ -1,0 +1,17 @@
+D:\ООП\Lab18\Lab18\bin\Debug\net8.0-windows\Lab18.exe
+D:\ООП\Lab18\Lab18\bin\Debug\net8.0-windows\Lab18.deps.json
+D:\ООП\Lab18\Lab18\bin\Debug\net8.0-windows\Lab18.runtimeconfig.json
+D:\ООП\Lab18\Lab18\bin\Debug\net8.0-windows\Lab18.dll
+D:\ООП\Lab18\Lab18\bin\Debug\net8.0-windows\Lab18.pdb
+D:\ООП\Lab18\Lab18\obj\Debug\net8.0-windows\Lab18.Form1.resources
+D:\ООП\Lab18\Lab18\obj\Debug\net8.0-windows\Lab18.Properties.Resources.resources
+D:\ООП\Lab18\Lab18\obj\Debug\net8.0-windows\Lab18.csproj.GenerateResource.cache
+D:\ООП\Lab18\Lab18\obj\Debug\net8.0-windows\Lab18.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Lab18\Lab18\obj\Debug\net8.0-windows\Lab18.AssemblyInfoInputs.cache
+D:\ООП\Lab18\Lab18\obj\Debug\net8.0-windows\Lab18.AssemblyInfo.cs
+D:\ООП\Lab18\Lab18\obj\Debug\net8.0-windows\Lab18.csproj.CoreCompileInputs.cache
+D:\ООП\Lab18\Lab18\obj\Debug\net8.0-windows\Lab18.dll
+D:\ООП\Lab18\Lab18\obj\Debug\net8.0-windows\refint\Lab18.dll
+D:\ООП\Lab18\Lab18\obj\Debug\net8.0-windows\Lab18.pdb
+D:\ООП\Lab18\Lab18\obj\Debug\net8.0-windows\Lab18.genruntimeconfig.cache
+D:\ООП\Lab18\Lab18\obj\Debug\net8.0-windows\ref\Lab18.dll
